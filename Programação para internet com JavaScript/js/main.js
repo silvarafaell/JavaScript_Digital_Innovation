@@ -1,8 +1,41 @@
 
+var d = new Date();
+alert(d.getDate());
+
+
+// var count;
+// for (count 0; count <= 5; count++) {
+//     alert(count);
+// };
+
+
+
+// var count = 0;
+// while (count <= 5) {
+//     console.log(count);
+//     alert(count);
+//     count++;
+//     //count = count + 1;
+// }
+
+
+// var idade = prompt("Qual sua idade"); //uma pergunta, o que responder vai ser gravado em idade
+
+//var idade = 18;
+
+// if (idade >= 18) {
+//     alert("maior que idade");
+// } else {
+//     alert("menor de idade");
+// }
+
+
+
+
 //Dicionario
-var frutas = [{ nome: "maça", cor: "vermelha" }, { nome: "uva", cor: "roxa" }]
-console.log(frutas);
-alert(frutas[1].nome);
+// var frutas = [{ nome: "maça", cor: "vermelha" }, { nome: "uva", cor: "roxa" }]
+// console.log(frutas);
+// alert(frutas[1].nome);
 
 // var fruta = { nome: "maça", cor: "vermelha" } //parecido com o json
 // console.log(fruta);
